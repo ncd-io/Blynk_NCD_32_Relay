@@ -14,9 +14,9 @@ TaskHandle_t backgroundTask;
 void backgroundTasks(void* pvParameters);
 
 //Variables
-char* auth = "QpIT6zfPE3L682Wl9-C7ANCDahlLbDep";
-char* ssid = "Travis-WiFi";
-char* pass = "2Washington99";
+char* auth = "Your_Auth_Token";
+char* ssid = "Your_SSID";
+char* pass = "Network_Password";
 
 void setup() {
   // put your setup code here, to run once:
